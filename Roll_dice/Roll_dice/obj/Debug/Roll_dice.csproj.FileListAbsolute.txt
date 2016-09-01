@@ -1,0 +1,8 @@
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\bin\Debug\Roll_dice.exe.config
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\bin\Debug\Roll_dice.exe
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\bin\Debug\Roll_dice.pdb
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\bin\Debug\Lab5_RollDice.dll
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\bin\Debug\Lab5_RollDice.pdb
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\obj\Debug\Roll_dice.csprojResolveAssemblyReference.cache
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\obj\Debug\Roll_dice.exe
+c:\EXPIT\DEMOS\Lab5_RollDice\Roll_dice\Roll_dice\obj\Debug\Roll_dice.pdb
